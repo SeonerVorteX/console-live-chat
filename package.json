@@ -1,0 +1,18 @@
+{
+  "name": "console-live-chat",
+  "version": "1.0.0",
+  "description": "Live console chat application",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node ./client/client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/collection": "^1.1.0",
+    "socket.io": "^4.5.2",
+    "socket.io-client": "^4.5.2"
+  }
+}
