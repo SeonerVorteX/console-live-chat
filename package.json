@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/collection": "^1.1.0",
-    "socket.io": "^4.5.2",
+    "socket.io": "^4.6.1",
     "socket.io-client": "^4.5.2"
   }
 }
